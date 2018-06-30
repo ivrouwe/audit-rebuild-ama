@@ -25,11 +25,6 @@ I've summarized these analyses, along with proposed solutions, in the "Areas For
 
 ### 2. Performance
 
-Here are some areas that could be improved:
-
-#### 1. Reduce size of inline (critical) and external CSS
-
-* Loading 
-* Loading over 1.5 MB of external stylesheets
+#### 1. Home page is currently loading over 1.5 MB of external stylesheets
 
 
