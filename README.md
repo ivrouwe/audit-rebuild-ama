@@ -1,4 +1,4 @@
-# audit-rebuild-ama
+# (Draft -- In Progress) audit-rebuild-ama
 Identifying ways to improve the accessibility, performance, and SEO ranking of AMA's website using web standards and industry-recommended best practices
 
 ## Methodology
